@@ -1,0 +1,26 @@
+[
+  {
+    "cve": "CVE-2024-1234",
+    "title": "Mock auth bypass in demo service",
+    "description": "A mock vulnerability used for testing data pipelines.",
+    "cvss": 8.7,
+    "epss": 0.42,
+    "kev_flag": true,
+    "published_date": "2024-02-14",
+    "vendor": "DemoCorp",
+    "product": "DemoGateway",
+    "references_json": ["https://example.com/advisories/1234"]
+  },
+  {
+    "cve": "CVE-2023-7788",
+    "title": "Sample overflow in mock parser",
+    "description": "Sample vulnerability entry for UI tables and charts.",
+    "cvss": 6.5,
+    "epss": 0.18,
+    "kev_flag": false,
+    "published_date": "2023-11-02",
+    "vendor": "MockVendor",
+    "product": "MockParser",
+    "references_json": ["https://example.com/advisories/7788"]
+  }
+]
